@@ -1,5 +1,9 @@
 この`app.py`は、ユーザーが年齢、基本手当日額、所定給付日数、支給残日数を入力することで、再就職手当を計算し、結果を表示する Streamlit アプリです。
 
+## Demo App
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://reemployment-allowance-calculator.streamlit.app/)
+
 計算式は以下の通りです：
 
 1. 年齢に応じた基本手当日額の上限額を設定します。60 歳未満の場合は 6290 円、60 歳以上 65 歳未満の場合は 5085 円です。
